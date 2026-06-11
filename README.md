@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning advanced system design, distributed systems, and AI/ML model optimization
 - 👯 I’m happy to collaboration in backend systems, ML/AI projects and open-source contributions.
 - ⚡ Fun fact:
-  - I automate things so I can be lazy efficiently.
   - Coffee-powered problem solver.
-  - I can remember obscure programming syntax but forget why I walked into a room. 
+  - I can remember obscure programming syntax but forget why I walked into a room.
+  - I quickly automate things so I can be lazy efficiently.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/samira-samrose-b95722129/)
 
 
